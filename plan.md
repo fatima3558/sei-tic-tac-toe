@@ -1,4 +1,4 @@
-# Peudo-Code Tic Tac Toe
+# Pseudo-Code Tic Tac Toe
 
 Next Week, you'll be building a [tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game from scratch. To prepare, the deliverable this week is to plan it out! You'll also get to practice writing [markdown](https://guides.github.com/features/mastering-markdown/).
 
